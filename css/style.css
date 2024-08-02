@@ -2,3 +2,60 @@
 body{
     font-family: "Poppins", sans-serif;
 }
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding: 0;
+    margin: 0;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+li{
+    display: inline-block;
+    list-style: none;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+.container{
+    border: 1px solid blue;
+}
+
+.common-btn{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    color: #FFFFFF;
+    padding: 15px 20px;
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+.navbar-icon{
+    padding: 5px;
+    border: 0;
+}
+.navbar-icon:focus {
+	box-shadow: none;
+}
+.form-control:focus {
+    box-shadow: none;
+    border: none;
+}
+/* navbar part end */
+/* banner part start */
+
+/* banner part end */
