@@ -32,9 +32,6 @@ a{
     display: inline-block;
     text-decoration: none;
 }
-.container{
-    border: 1px solid blue;
-}
 .section-h1{
     font-size: 60px;
 }
@@ -98,8 +95,5 @@ a{
 }
 /* navbar part end */
 /* footer part start */
-.footer-contianer{
-    max-width: 800px;
-    margin: 0 auto;
-}
+
 /* footer part end */
