@@ -8,6 +8,12 @@
     .section-h2 {
         font-size: 35px;
     }
+    .section-h3{
+        font-size: 20px;
+    }
+    .categories-span {
+        font-size: 25px;
+    }
 }
 
 @media (min-width:576px) and (max-width:767.99px){
@@ -20,17 +26,22 @@
     .section-h2 {
         font-size: 40px;
     }
-    
+    .section-h3{
+        font-size: 25px;
+    }   
 }
 @media (min-width:768px) and (max-width:991.99px) {
     .gap{
-        margin: 40px 0;
+        margin: 60px 0;
     }
     .section-h1 {
         font-size: 45px;
     }
     .section-h2 {
         font-size: 35px;
+    }
+    .section-h3{
+        font-size: 20px;
     }
 }
 @media (min-width:992px) and (max-width:1199.99px) {

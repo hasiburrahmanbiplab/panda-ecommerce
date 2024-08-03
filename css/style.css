@@ -42,10 +42,10 @@ a{
     font-size: 40px;
 }
 .section-h3{
-    font-size: 25xp;
+    font-size: 25px;
 }
 .gap{
-    margin: 100px 0;
+    margin: 80px 0;
 }
 .linear-1{
     background: linear-gradient(to right, #FF9C35 , #FFD019);
@@ -62,6 +62,14 @@ a{
     background: linear-gradient(to right, #FF589B, #FF136F);
     background-clip: text;
     color: transparent;
+}
+.common-btn-2{
+    font-size: 16px;
+    font-weight: 500;
+    background: linear-gradient(to right, #FF9C35 , #FFD019);
+    background-clip: text;
+    color: transparent;
+    border: none;
 }
 .categories-span{
     font-size: 30px;    
