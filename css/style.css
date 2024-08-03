@@ -44,6 +44,9 @@ a{
 .section-h3{
     font-size: 25xp;
 }
+.gap{
+    margin: 100px 0;
+}
 .linear-1{
     background: linear-gradient(to right, #FF9C35 , #FFD019);
 }
