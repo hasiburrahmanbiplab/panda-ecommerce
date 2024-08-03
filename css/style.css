@@ -97,3 +97,9 @@ a{
     border: none;
 }
 /* navbar part end */
+/* footer part start */
+.footer-contianer{
+    max-width: 800px;
+    margin: 0 auto;
+}
+/* footer part end */
