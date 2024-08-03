@@ -63,6 +63,9 @@ a{
     background-clip: text;
     color: transparent;
 }
+.categories-span{
+    font-size: 30px;    
+}
 .common-btn{
     font-size: 16px;
     font-weight: 500;
@@ -86,6 +89,3 @@ a{
     border: none;
 }
 /* navbar part end */
-/* banner part start */
-
-/* banner part end */
