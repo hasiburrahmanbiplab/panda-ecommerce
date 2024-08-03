@@ -17,6 +17,9 @@ h6 {
     padding: 0;
     margin: 0;
 }
+p{
+    margin: 0;
+}
 ul{
     padding: 0;
     margin: 0;
@@ -32,13 +35,37 @@ a{
 .container{
     border: 1px solid blue;
 }
-
+.section-h1{
+    font-size: 60px;
+}
+.section-h2{
+    font-size: 40px;
+}
+.section-h3{
+    font-size: 25xp;
+}
+.linear-1{
+    background: linear-gradient(to right, #FF9C35 , #FFD019);
+}
+.linear-2{
+    background: linear-gradient(to right, #FF589B, #FF136F);
+}
+.linear-3{
+    background: linear-gradient(to right, #4289FF, #3F07F8) ;
+}
+.banner-span{
+    font-size: 30px;
+    font-weight: 500;
+    background: linear-gradient(to right, #FF589B, #FF136F);
+    background-clip: text;
+    color: transparent;
+}
 .common-btn{
     font-size: 16px;
     font-weight: 500;
     font-family: "Poppins", sans-serif;
     color: #FFFFFF;
-    padding: 15px 20px;
+    padding: 12px 20px;
     background-color: black;
     border: none;
     border-radius: 10px;
